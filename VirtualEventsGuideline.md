@@ -20,13 +20,13 @@ The systems we are using for the online conference include Zoom, Slack, and Mozi
 
 
 
-1. Code of Conduct
+**1. Code of Conduct**
 
 
 AI4Good Lab 2020 is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. As a program that aims to share ideas and freedom of thought and expression, it is essential that the program takes place in an environment that recognizes the inherent worth of every person by being respectful of all. All communication should be appropriate for a professional audience including people of many different backgrounds. Attendees violating these rules may be asked to leave the program. If you wish to report a breach of the code of conduct this can be done via email to Program Manager, Yosra Kazemi (ykazemi [at] ai4goodlab.com), and/or Executive Director, Maya Marcus Sells ( mmarcussells [at] ai4goodlab.com). All reports will only be sent to the authorized people and will be treated confidentially. 
 
 
-2. Slack Instructions
+**2. Slack Instructions**
 
 
 The AI4Good Slack is the place to ask (any!) questions, share ideas, and engage with the broader community. Please consult the guide below for what posts go in each channel. Make sure you join slack (https://aiforsocialgoodlab.slack.com/) if you have not done so already. 
@@ -48,21 +48,22 @@ The AI4Good Slack is the place to ask (any!) questions, share ideas, and engage 
 *Note:* Each study group will be assigned a channel. Please update the channel name to your study group name and use the channel to communicate with your group members and assigned TA.
 
 
-3. Slack Rules for all Channels
-	- **DO NOT**  upload assignments and work documents in the slack channels. You may upload them in the appropriate Google Drive folder
-	- Be nice! We are all here to learn and help each other out
-	- Please remember that your community engagement counts towards your stipend consideration.
+**3. Slack Rules for all Channels**
+
+- **DO NOT**  upload assignments and work documents in the slack channels. You may upload them in the appropriate Google Drive folder
+- Be nice! We are all here to learn and help each other out
+- Please remember that your community engagement counts towards your stipend consideration.
 
 
-4. Main point of contact 
+**4. Main point of contact**
+
 Please contact us on slack before resorting to email.
-
 
 - If the first letter of your last name is between A-H, your main contact is Christina Isaicu (cisaicu@ai4goodlab.com)
 - If the first letter of your last name is between K-Z, your main contact is Karine Séguin (kseguin@ai4goodlab.com)
 
 
-5. Zoom lectures, talks, and workshops
+**5. Zoom lectures, talks, and workshops**
 
 For all lectures, talks and workshops that are running during the program, the Zoom platform will be used. You can access the rooms via the link provided in the Curriculum schedule.
 
@@ -73,7 +74,7 @@ For all lectures, talks and workshops that are running during the program, the Z
 - Do not share the program material with anyone outside of the program.
 - Please note that even though Zoom has the private chat option, the Host can have access to the content of those conversations, and all chat records will be available in the recordings. 
 
-6. TA- dedicated hours
+**6. TA- dedicated hours**
 To have better access to your TAs, each study-group has a dedicated TA with whom you will be working for the duration of the curriculum period (June 8th - July 7th). 
 
 
@@ -86,7 +87,7 @@ Every participant is expected to spend a certain number of hours per week workin
 In the following section we introduce you to some platforms that you can use to communicate with your teammates during the program. These are just recommendations and you are free to use any other platform that is not mentioned below and you are more comfortable with.
 
 
-7. Group Interaction Solutions and Interactive Coding
+**7. Group Interaction Solutions and Interactive Coding**
 
 
 Here are some platforms you can use during the program to interact with your team and have a better time working on your projects.
