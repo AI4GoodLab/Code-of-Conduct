@@ -74,7 +74,9 @@ For all lectures, talks and workshops that are running during the program, the Z
 - Do not share the program material with anyone outside of the program.
 - Please note that even though Zoom has the private chat option, the Host can have access to the content of those conversations, and all chat records will be available in the recordings. 
 
-**6. TA- dedicated hours**
+**6. TA-dedicated hours**
+
+
 To have better access to your TAs, each study-group has a dedicated TA with whom you will be working for the duration of the curriculum period (June 8th - July 7th). 
 
 
